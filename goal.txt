@@ -1,1 +1,2 @@
 our goal is to apply version control perfectly
+since practice makes perferct, we practice :D
