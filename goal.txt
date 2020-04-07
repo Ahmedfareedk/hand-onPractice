@@ -1,3 +1,7 @@
 our goal is to apply version control perfectly
 since practice makes perferct, we practice :D
 keep it up!
+since practice makes perferct, we practice :D
+Amr : I agree with you.
+Amr : second test to pull together
+>>>>>>> cec3dda12d67a496ff5e0b081d4096d5630da24f
