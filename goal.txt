@@ -4,5 +4,8 @@ keep it up!
 since practice makes perferct, we practice :D
 Amr : I agree with you.
 Amr : second test to pull together
+<<<<<<< HEAD
 >>>>>>> cec3dda12d67a496ff5e0b081d4096d5630da24f
 Amr : Last Try .
+it always get issues at first, but it's okay
+
